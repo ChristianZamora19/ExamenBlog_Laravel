@@ -1,3 +1,12 @@
+Zamora Arreola Christian Armando 
+Jose Gallozo Victor Angel 
+link de app  http://blog-cliente-servidor02.herokuapp.com/
+link de repositorio https://github.com/ChristianZamora19/ExamenBlog_Laravel.git
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
