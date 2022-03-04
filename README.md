@@ -1,5 +1,8 @@
+Grupo:3522IS
 Zamora Arreola Christian Armando 
+Matricula:1320114025
 Jose Gallozo Victor Angel 
+Matricula:1320114085
 link de app  http://blog-cliente-servidor02.herokuapp.com/
 link de repositorio https://github.com/ChristianZamora19/ExamenBlog_Laravel.git
 
